@@ -1,0 +1,21 @@
+{
+  "name": "Felix",
+  "version": "1.0.0",
+  "description": "Telegram IRC gateway",
+  "main": "teleirc.js",
+  "dependencies": {
+    "irc": "~0.3.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MozillaIndia/Felix.git"
+  },
+  "license": "MPL",
+  "bugs": {
+    "url": "https://github.com/MozillaIndia/Felix/issues"
+  }
+}
